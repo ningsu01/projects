@@ -3,6 +3,7 @@
   <groupId>com.sn.netty</groupId>
   <artifactId>netty-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <pom>war</pom>
   <dependencies>
      <dependency>
 		    <groupId>io.netty</groupId>
